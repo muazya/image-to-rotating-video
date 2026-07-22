@@ -1,0 +1,16 @@
+# CPU-only POC pipeline deps. Verified installed on Python 3.12 (works on 3.10+).
+# rembg pulls onnxruntime (CPU) + PyMatting/numba/scikit-image transitively.
+pillow==12.3.0
+numpy==1.26.4
+requests==2.34.2
+tqdm==4.69.0
+
+# Step 1 - background removal (CPU)
+rembg==2.0.69
+onnxruntime==1.27.0
+
+# Step 2 - hosted 3D reconstruction
+replicate==1.0.7
+
+# GLB inspection / validation helper
+trimesh==4.12.2

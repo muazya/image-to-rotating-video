@@ -1,0 +1,12 @@
+# keep the image small + reproducible: never copy host-generated artifacts
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.git/
+.claude/
+assets/
+input/
+work/
+output/
+*.tar.xz
