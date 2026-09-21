@@ -13,7 +13,7 @@ Generate a 360° turntable MP4 of a product from **two photos** (front + back).
 **Output** — the generated 360° turntable video (textured reconstruction via TRELLIS):
 
 <p align="center">
-  <video src="https://github.com/goodluck1103/image-to-rotating-video/releases/download/v0.1.0/turntable.mp4" controls muted loop width="360">
+  <video src="https://github.com/muazya/image-to-rotating-video/releases/download/v0.1.0/turntable.mp4" controls muted loop width="360">
     <img src="docs/turntable.gif" width="360" alt="360° turntable of the reconstructed chair">
   </video>
 </p>
@@ -23,7 +23,7 @@ Generate a 360° turntable MP4 of a product from **two photos** (front + back).
   <img src="docs/turntable.gif" width="360" alt="360° turntable of the reconstructed chair">
 </p>
 
-▶️ Full-quality MP4: [download](https://github.com/goodluck1103/image-to-rotating-video/releases/download/v0.1.0/turntable.mp4) (H.264, 1024×1024, 4s).
+▶️ Full-quality MP4: [download](https://github.com/muazya/image-to-rotating-video/releases/download/v0.1.0/turntable.mp4) (H.264, 1024×1024, 4s).
 
 ---
 
